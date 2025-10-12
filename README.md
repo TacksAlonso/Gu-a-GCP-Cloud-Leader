@@ -1,2 +1,7 @@
-# Gu-a-GCP-Cloud-Leader
-Me guía para el examen de certificación de GCP
+---
+
+## Guía de Estudio
+
+* [Detalles completos sobre Compute Engine](Compute Engine.md)
+
+---
